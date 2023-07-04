@@ -1,17 +1,6 @@
 <div id="header" align="center">
-    <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+    <img src="https://media1.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e47krri0gdhnyjvydnya4whn28zf4b8kp7r45ov65o2&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="100"/>
 </div>
-
-```
-// Go (GoLang)
-package main
-
-import "fmt"
-
-func main(){ 
-    fmt.Println("Hello, this is my GitHub!")
-}
-```
 
 👋Меня завут Матвей, я начинающий разработчик. Я изучаю, C#, C++, QT, Python, Pawno, JavaScript, WEB Разработка. В процессе изучения Разработка API.
 
