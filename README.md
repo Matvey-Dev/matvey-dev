@@ -1,15 +1,30 @@
-# Hi there, I'm [Matvey](https://vk.com/m1028882) ![](https://github.com/blackcater/blackcater/raw/main/images/Hi.gif)
-<!---Пример кода-->
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Computer+science+student)](https://git.io/typing-svg)
-![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white)
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![Qt](https://img.shields.io/badge/Qt-%23217346.svg?style=for-the-badge&logo=Qt&logoColor=white)
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
-<!---Для компактной версии--><!---Для подробной версии-->
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=anuraghazra" />
-</a>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=anuraghazra&layout=compact&langs_count=8&card_width=320" />
-</a>
+<div id="header" align="center">
+    <img src="https://cdn.wikiwiki.jp/to/w/nicosnextbot/maxwell/::ref/IMG_1903.gif?rev=fa48d24244713fa3f87b7496e37c4862&t=20230330154906" width="100"/>
+</div>
+
+```
+// Go (GoLang)
+package main
+
+import "fmt"
+
+func main(){ 
+    fmt.Println("Hello, this is my GitHub!")
+}
+```
+
+👋Меня завут Матвей, я начинающий разработчик. Я изучаю, C#, C++, QT, Python, Pawno, JavaScript, WEB Разработка. В процессе изучения Разработка API.
+
+📘 Сейчас я знаю и умею работать pawn: 
+- Язык запросов SQL.
+- Веб-Дизайн.
+- Разработка программного обеспечения.
+- Занимаюсь разработкой баз данных, для вашего мода SAMP-CRMP.
+- Веб-разработка.
+- Разработка API.
+В процессе изучения.
+
+## Contacts
+
+<kbd>[VK](https://vk.com/m1028882)</kbd>  
+<kbd>mamedov2000123@gmail.com</kbd>
