@@ -6,6 +6,7 @@
     <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
   </a>
 </div>
+<img src="https://komarev.com/ghpvc/?username=your-github-username&style=flat-square&color=blue" alt=""/>
 👋Меня завут Матвей, я начинающий разработчик. Я изучаю, C#, C++, QT, Python, Pawno, JavaScript, WEB Разработка. В процессе изучения Разработка API.
 
 📘 Сейчас я знаю и умею работать pawn: 
