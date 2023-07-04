@@ -1,5 +1,5 @@
 <div id="header" align="center">
-    <img src="https://cdn.wikiwiki.jp/to/w/nicosnextbot/maxwell/::ref/IMG_1903.gif?rev=fa48d24244713fa3f87b7496e37c4862&t=20230330154906" width="100"/>
+    <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 </div>
 
 ```
