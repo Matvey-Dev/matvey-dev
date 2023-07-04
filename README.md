@@ -7,6 +7,9 @@
   </a>
 </div>
 <img src="https://komarev.com/ghpvc/?username=Matvey-Dev&style=flat-square&color=blue" alt=""/>
+<div align="center">
+  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
+</div>
 👋Меня завут Матвей, я начинающий разработчик. Я изучаю, C#, C++, QT, Python, Pawno, JavaScript, WEB Разработка. В процессе изучения Разработка API.
 
 📘 Сейчас я знаю и умею работать pawn: 
